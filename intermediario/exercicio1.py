@@ -1,6 +1,4 @@
 # exercicio sobre funcoes e desempacotamentod de parametros
-
-
 def multiplicacao(*args):
     total = 1
     for numero in args:
