@@ -1,9 +1,6 @@
-'''Criar um algoritmo que duplica, triplica e quadruplica um numero usando recursividade e closure de funções'''
-
-
-def criar_multiplicador(multiplicador):
-    def multiplicar(numero):
-        return numero * multiplicador
+#Criar um algoritmo que duplica, triplica e quadruplica um numero usando recursividade e closure de funções
+def multiplicar(numero):
+    return numero * multiplicador
 
     return multiplicar
 
